@@ -1,0 +1,1 @@
+"""Elementor structured-data integration."""
