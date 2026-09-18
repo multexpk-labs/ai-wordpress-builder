@@ -111,6 +111,7 @@ AI and WordPress projects often need reliable development and hosting infrastruc
 - Website: https://multexpk.com
 - Cloud & VPS: https://webvpsserver.com
 - Support: support@multexpk.com
+- WhatsApp: +92 312 6565434
 
 Commercial infrastructure services are separate from this open-source educational framework.
 
