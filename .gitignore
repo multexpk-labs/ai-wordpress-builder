@@ -1,0 +1,24 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+secrets*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+backup/*
+!backup/.gitkeep
+audit/*
+!audit/.gitkeep
+projects/*
+!projects/.gitkeep
+.DS_Store
+.idea/
+.vscode/
