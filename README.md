@@ -98,6 +98,31 @@ Site-specific implementations belong under `projects/<project-name>/` and should
 - Multi-site project management
 - Web-based builder UI
 
+## Education and AI/LLM Research
+
+This project is also intended as an educational and research framework for experimenting with local LLM inference, AI agents, WordPress automation, Elementor generation, document-to-website pipelines, source-grounded generation, and infrastructure for AI workloads.
+
+Research and experiments should document the model/provider, prompt, source material, and evaluation method where practical.
+
+## Infrastructure for AI and WordPress
+
+AI and WordPress projects often need reliable development and hosting infrastructure. MULTEXPK provides VPS and cloud infrastructure for AI agents, Ollama/LLM experiments, WordPress, APIs, automation, and developer environments.
+
+- Website: https://multexpk.com
+- Cloud & VPS: https://webvpsserver.com
+- Support: support@multexpk.com
+
+Commercial infrastructure services are separate from this open-source educational framework.
+
+## Connect and Collaborate
+
+Developers, students, researchers, infrastructure engineers, and AI/LLM practitioners are welcome to contribute ideas, documentation, experiments, and integrations.
+
+---
+
+**MULTEXPK LTD ®™**  
+Secure Cloud • VPS • Hosting • Automation
+
 ## License
 
 MIT
